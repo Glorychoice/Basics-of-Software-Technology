@@ -70,7 +70,6 @@ int main() {
 
     return 0;
 }
-```
 
 
 -  **Compilation Command**:  ``gcc matrix.c -o matrix``

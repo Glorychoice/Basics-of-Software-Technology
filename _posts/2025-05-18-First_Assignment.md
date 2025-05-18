@@ -51,8 +51,8 @@ void printMatrix(int matrix[ROW1][COL2], int rows, int cols) {
 }
 
 int main() {
-    int A[ROW1][COL1] = {{1, 2, 3}, {4, 5, 6}};
-    int B[ROW2][COL2] = {{7, 8}, {9, 10}, {11, 12}};
+    int A[ROW1][COL1] = ((1, 2, 3), (4, 5, 6));
+    int B[ROW2][COL2] = ((7, 8), (9, 10), (11, 12));
     int C[ROW1][COL2]; // Resultant Matrix
 
     // Multiply matrices

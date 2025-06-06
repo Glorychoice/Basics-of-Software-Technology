@@ -19,5 +19,5 @@ I began by creating a new GitHub repository named Assignment-2, where I initiali
  
 # References
 - GitHub 
--Jekyll
--Git 
+- Jekyll
+- Git 

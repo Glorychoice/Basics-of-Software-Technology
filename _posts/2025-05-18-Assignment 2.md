@@ -15,7 +15,7 @@ Jekyll for GitHub Pages.
 
 
 ## Conclusion
- Ths project helped me understand how to use Markdown effectively, website configuration, deployment and effective use of Git.
+ This project helped me understand how to use Markdown effectively, website configuration, deployment and effective use of Git.
  
 # References
 GitHub 

@@ -1,5 +1,5 @@
 ---
-title: "Software Second Assignment"
+title: "Assignment 2"
 date: 2025-04-24
 ---
 

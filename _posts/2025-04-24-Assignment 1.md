@@ -1,13 +1,12 @@
 ﻿# Matrix Multiplication Project Report
 
-**Student Name**: [Ameh Glory Ene-dugbo-ojo]  
-**Student ID**: [LS2425231]  
-**Submission Date**: [2025-03-27]
+**Student Name**: Ameh Glory Ene-dugbo-ojo 
+**Student ID**: LS2425231
+**Submission Date**: 2025-03-27
 
-## System Configuration
-List your system configuration as **table of content here** here, including CPU model, memory size, operating system version, compiler version, python version.
-
-**Below  is Table of Content for my system configuration:**
+## System Configuration 
+**Below  is Table of Content for my system configuration including CPU model, memory size, operating system version, compiler version, python version
+:**
 
 |**CPU Model** | Intel® Core™ i7-8550U CPU @ 1.80GHz |
 |--|--|

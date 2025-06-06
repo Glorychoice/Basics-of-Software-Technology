@@ -10,14 +10,14 @@ I began by creating a new GitHub repository named Assignment-2, where I initiali
 
 
 ## Tools used for the static site.
-GitHub Pages for static websites.
-Jekyll for GitHub Pages.
+- GitHub Pages for static websites.
+- Jekyll for GitHub Pages.
 
 
 ## Conclusion
  This project helped me understand how to use Markdown effectively, website configuration, deployment and effective use of Git.
  
 # References
-GitHub 
-Jekyll
-Git 
+- GitHub 
+-Jekyll
+-Git 

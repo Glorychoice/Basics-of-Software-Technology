@@ -131,8 +131,8 @@ The objective of this project was to gain practical experience in using the Unix
 - Unix/Linux command line operations
 - Develop skills in technical documentation using Markdown
 - Implement matrix multiplication in
--    C (using gcc)
--    Python (using NumPy)
+    C (using gcc),
+    Python (using NumPy)
 - Validate the correctness of the matrix multiplication algorithm
 - Analyze performance differences between C and Python implementations
 - Use version-controlled file submission - I Submited all required files via email in proper format (.md, .pdf, .c, .py)
@@ -146,6 +146,4 @@ The objective of this project was to gain practical experience in using the Unix
 - Pandoc User’s Guide
 - WSL2 Documentation 
 - Matrix Multiplication Tutorial
-
-## Appendix
 

@@ -1,8 +1,8 @@
 ﻿# Matrix Multiplication Project Report
 
-- **Student Name**: [Ameh Glory Ene-dugbo-ojo] 
-- **Student ID**: [LS2425231]
-- **Submission Date**: [2025-03-27]
+- **Student Name**: Ameh Glory Ene-dugbo-ojo
+- **Student ID**: LS2425231
+- **Submission Date**: 2025-03-27
 
 ## System Configuration 
 **Below  is Table of Content for my system configuration including CPU model, memory size, operating system version, compiler version, python version
@@ -138,11 +138,11 @@ The objective of this project was to gain practical experience in using the Unix
 
 
 ## References
-- GCC Documentation
-- Python NumPy Documentation 
+- GCC 
+- Python NumPy
 - The Linux Command Line
-- Markdown Guide
-- Pandoc User’s Guide
-- WSL2 Documentation 
-- Matrix Multiplication Tutorial
+- Markdown
+- Pandoc
+- WSL2 
+- Matrix Multiplication 
 

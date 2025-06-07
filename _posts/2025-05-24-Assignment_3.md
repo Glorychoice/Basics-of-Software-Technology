@@ -28,9 +28,10 @@ try:
 except Exception as e:
     print("Exception occurred:", e)
 
-- This practical workflow demonstrated how LLMs can significantly boost productivity in programming and research, offline using OLLAMA - LLAMA3.
+- This practical shows how LLMs can significantly boost productivity in programming and research, offline using OLLAMA - LLAMA3.
+  
 ## conclusion
-- Online Model API: installed and got my API Key but could not use it but i used Ollama because is fast and it offline and other benefits.
+- Online Model API: I actually installed and got my API Key but could not use it but i so used Ollama because is fast and it offline, i mean without Internet and other benefits.
 - Local Model Deployment: Ollama - llama3
 - Integration into Development Environment: VSCode
 

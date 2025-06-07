@@ -30,8 +30,9 @@
 - tkinter – GUI
   
 # Resuls
-- 
+- The results of the project demonstrate that the GNSS tool effectively parsed and analyzed BeiDou B3I data, generating clear visualizations such as skyplots, SNR graphs, and DOP curves. The satellite geometry analysis revealed how the Dilution of Precision (DOP) values varied over time, highlighting the impact of satellite distribution on positional accuracy. Overall, the tool provided valuable insights, confirming that selecting satellites with higher SNR and optimal geometry leads to more accurate and reliable GNSS positioning results.
 
+# Summary
 - For Assignment 4, I developed a GNSS Satellite Geometry Optimizer using real BeiDou B3I data collected from field testing. The main goal was to improve position accuracy by analyzing satellite visibility, SNR quality, and calculating DOP values (GDOP, PDOP, HDOP, VDOP). A custom Python tool was implemented to convert the raw .log file into structured .csv, visualize satellite geometry through skyplots, and plot SNR and trajectory data. Additionally, I integrated a simple GUI using Tkinter to make the tool user-friendly. An optional AI-assisted module was tested to label satellite quality based on signal strength and geometry. This project highlights how GNSS signal analysis, satellite selection, and real-time visualization can work together to optimize navigation accuracy in challenging environments.
 
 # Conclusion

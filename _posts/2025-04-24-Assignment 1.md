@@ -1,8 +1,11 @@
 ﻿# Matrix Multiplication Project Report
 
-**Student Name**: [Ameh Glory Ene-dugbo-ojo] 
-**Student ID**: [LS2425231]
-**Submission Date**: [2025-03-27]
+**Student Name**: 
+[Ameh Glory Ene-dugbo-ojo] 
+**Student ID**: 
+[LS2425231]
+**Submission Date**: 
+[2025-03-27]
 
 ## System Configuration 
 **Below  is Table of Content for my system configuration including CPU model, memory size, operating system version, compiler version, python version
@@ -105,7 +108,6 @@ print(C)
 ## Performance Analysis
 -  **Execution Times**: Table comparing the execution times of the C and Python implementations.
 
-**Answer**
 - **Execution Time Results (in seconds)**
 
 | **C(GCC -02)** | **Python (Numpy)** |

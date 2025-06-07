@@ -1,4 +1,4 @@
-# GNSS Satellite Geometry Optimizer for Enhanced Position Accuracy in Challenging Environments
+# Project Topic: GNSS Satellite Geometry Optimizer for Enhanced Position Accuracy in Challenging Environments
 
 # Project Objectives:
 - Analyze real-world BeiDou B3I GNSS data.
@@ -6,10 +6,10 @@
 - Provide visualizations: SNR plots, skyplot, trajectory, and satellite visibility.
 - log-to-CSV conversion, basic AI-assistance, and GUI.
 
-# Real-world GNSS data  log file: E:\with internet-middle - DATA.log
-# GNSS Data Source: BeiDou B3I data
+- Real-world GNSS data  log file: E:\with internet-middle - DATA.log
+- GNSS Data Source: BeiDou B3I data
 
-# Functional Modules:
+- Functional Modules:
 - Log file parser (.log → .csv)
 - DOP calculator
 - Skyplot generator
@@ -27,7 +27,7 @@
 - tkinter – GUI
   
 # Resuls
-
+- 
 
 - For Assignment 4, I developed a GNSS Satellite Geometry Optimizer using real BeiDou B3I data collected from field testing. The main goal was to improve position accuracy by analyzing satellite visibility, SNR quality, and calculating DOP values (GDOP, PDOP, HDOP, VDOP). A custom Python tool was implemented to convert the raw .log file into structured .csv, visualize satellite geometry through skyplots, and plot SNR and trajectory data. Additionally, I integrated a simple GUI using Tkinter to make the tool user-friendly. An optional AI-assisted module was tested to label satellite quality based on signal strength and geometry. This project highlights how GNSS signal analysis, satellite selection, and real-time visualization can work together to optimize navigation accuracy in challenging environments.
 

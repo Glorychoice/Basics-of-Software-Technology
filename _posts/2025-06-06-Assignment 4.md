@@ -6,8 +6,10 @@
 - Provide visualizations: SNR plots, skyplot, trajectory, and satellite visibility.
 - log-to-CSV conversion, basic AI-assistance, and GUI.
 
+
 - Real-world GNSS data  log file: E:\with internet-middle - DATA.log
 - GNSS Data Source: BeiDou B3I data
+
 
 - Functional Modules:
 - Log file parser (.log → .csv)
@@ -16,6 +18,7 @@
 - SNR visualizer
 - Optional AI-assisted module for satellite classification
 - GUI using Tkinter or PyQt
+
 
 # Tools and Environment
 - Operating System: Windows 11 (with WSL Ubuntu)

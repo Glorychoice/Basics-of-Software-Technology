@@ -1,7 +1,7 @@
 ﻿# Matrix Multiplication Project Report
 
 **Student Name**: 
-[Ameh Glory Ene-dugbo-ojo] 
+- [Ameh Glory Ene-dugbo-ojo] 
 **Student ID**: 
 [LS2425231]
 **Submission Date**: 

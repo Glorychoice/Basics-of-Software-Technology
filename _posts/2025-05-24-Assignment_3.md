@@ -1,4 +1,6 @@
+
 ## Report Summary
+
 - Assignment 3 focused on the deployment and integration of Large Language Models (LLMs) in both online and offline environments. The core objective was to understand how to leverage AI models like OpenAI's GPT-4 for cloud-based interaction and locally deployed models like Meta’s LLaMA3 using the Ollama framework. Ollama provides a simple and efficient way to run powerful LLMs locally without requiring internet access, making it ideal for offline development tasks. During this assignment, I installed Ollama, deployed the LLaMA3 model, and verified its functionality through terminal prompts. I also integrated local (Ollama + LLaMA3) models into my development environment (VSCode). belowbis the code:
 
 - import requests

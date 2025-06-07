@@ -1,5 +1,5 @@
 ## Report Summary
-- Assignment 3 focused on the deployment and integration of Large Language Models (LLMs) in both online and offline environments. The core objective was to understand how to leverage AI models like OpenAI's GPT-4 for cloud-based interaction and locally deployed models like Meta’s LLaMA3 using the Ollama framework. Ollama provides a simple and efficient way to run powerful LLMs locally without requiring internet access, making it ideal for offline development tasks. During this assignment, I installed Ollama, deployed the LLaMA3 model, and verified its functionality through terminal prompts. I also integrated both local (Ollama + LLaMA3) and online (OpenAI API) models into my development environment (VSCode),
+- Assignment 3 focused on the deployment and integration of Large Language Models (LLMs) in both online and offline environments. The core objective was to understand how to leverage AI models like OpenAI's GPT-4 for cloud-based interaction and locally deployed models like Meta’s LLaMA3 using the Ollama framework. Ollama provides a simple and efficient way to run powerful LLMs locally without requiring internet access, making it ideal for offline development tasks. During this assignment, I installed Ollama, deployed the LLaMA3 model, and verified its functionality through terminal prompts. I also integrated local (Ollama + LLaMA3) models into my development environment (VSCode). belowbis the code:
 
 - import requests
 
@@ -29,17 +29,12 @@ except Exception as e:
     print("Exception occurred:", e)
 
 - This practical workflow demonstrated how LLMs can significantly boost productivity in programming and research, offline using OLLAMA - LLAMA3.
-7.
-8.
-9.
-10.
-11.
-12.
-13.
-14.
-15.
-16.
-17. # References
+## conclusion
+- Online Model API: installed and got my API Key but could not use it but i used Ollama because is fast and it offline and other benefits.
+- Local Model Deployment: Ollama - llama3
+- Integration into Development Environment: VSCode
+
+# References
 - OpenAI API
 - Ollama
 - VSCode

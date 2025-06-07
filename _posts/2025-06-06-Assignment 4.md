@@ -21,7 +21,7 @@
 
 
 # Tools and Environment
-- Operating System: Windows 11 (with WSL Ubuntu)
+- vscode
 - Programming Language: Python 3.12
 
 # Libraries Used:

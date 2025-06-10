@@ -1,12 +1,12 @@
 # Assignment 4 Report
 
- Project Title: GNSS Satellite Geometry Evaluator for BeiDou B3I
+ # Project Title: GNSS Satellite Geometry Evaluator for BeiDou B3I
  
- Student: Ameh Glory Ene-dugbo-ojo
- Student ID: LS2425231
- University: Beihang University (Hangzhou Regional Center)
- Program: M.Sc. Space Technology Applications
- Date: June 10th 2025
+ - Student: Ameh Glory Ene-dugbo-ojo
+ - Student ID: LS2425231
+ - University: Beihang University (Hangzhou Regional Center)
+ - Program: M.Sc. Space Technology Applications
+ - Date: June 10th 2025
  
 #  1. Introduction and Objective
  This software project aims to evaluate GNSS (Global Navigation Satellite System) signal performance using
@@ -84,8 +84,14 @@ Parsing mixed-format BeiDou logs containing BDGGA, BDGSV, BDDHV, and RAWSTAT mes
 - The results of the project demonstrate that the GNSS tool effectively parsed and analyzed BeiDou B3I data, generating clear visualizations such as skyplots, SNR graphs, and DOP curves. The satellite geometry analysis revealed how the Dilution of Precision (DOP) values varied over time, highlighting the impact of satellite distribution on positional accuracy. Overall, the tool provided valuable insights, confirming that selecting satellites with higher SNR and optimal geometry leads to more accurate and reliable GNSS positioning results.
 
 # 7. Source Code Access
-  Project files include: - **convert_log_to_csv.py** - **b3i_real_data.log** - **b3i_evaluator.py** - **b3i_sample_data.csv** - **b3i_gui_evaluator.py **
-**outputs/**
+  - **Project files include:** 
+  - **convert_log_to_csv.py**
+  - **b3i_real_data.log**
+  - **b3i_evaluator.py**
+  - **b3i_sample_data.csv**
+  - **b3i_gui_evaluator.py**
+  - **outputs/**
+
 import csv
 
 # Input and output files
@@ -121,27 +127,27 @@ with open(csv_file, 'w', newline='') as out:
 print(f"✅ Converted {len(data)} satellite entries to {csv_file}")
 
 # C:\Users\hp\Documents\b3i_gnss_evaluator\outputs\summary_stats.csv,PRN,Elevation,Azimuth,SNR
-count,20739.0,20739.0,20739.0,20739.0
-mean,182.58151309127732,49.90915666136265,197.21587347509524,40.23303920150441
-std,19.219181527127507,16.72571333323216,84.89948176960478,3.4080422147958136
-min,161.0,25.0,52.0,29.0
-25%,167.0,39.0,141.0,38.0
-50%,179.0,45.0,201.0,40.0
-75%,198.0,67.0,238.0,43.0
-max,220.0,82.0,353.0,46.0
+- count,20739.0,20739.0,20739.0,20739.0
+- mean,182.58151309127732,49.90915666136265,197.21587347509524,40.23303920150441
+- std,19.219181527127507,16.72571333323216,84.89948176960478,3.4080422147958136
+- min,161.0,25.0,52.0,29.0
+- 25%,167.0,39.0,141.0,38.0
+- 50%,179.0,45.0,201.0,40.0
+- 75%,198.0,67.0,238.0,43.0
+- max,220.0,82.0,353.0,46.0
 
 # C:\Users\hp\Documents\b3i_gnss_evaluator\outputs\summary.txtTotal Satellites: 20739
-Average SNR: 40.23
-Max Elevation: 82.0
-Min Elevation: 25.0
+- Average SNR: 40.23
+- Max Elevation: 82.0
+- Min Elevation: 25.0
 
 # PRN,Elevation,Azimuth,SNR
-161,45.0,137.0,39.0
-162,35.0,232.0,36.0
-163,52.0,198.0,40.0
-167,82.0,353.0,43.0
-170,69.0,321.0,40.0
-173,39.0,208.0,39.0.....
+- 161,45.0,137.0,39.0
+- 162,35.0,232.0,36.0
+- 163,52.0,198.0,40.0
+- 167,82.0,353.0,43.0
+- 170,69.0,321.0,40.0
+- 173,39.0,208.0,39.0.....
 
 # ![image](https://github.com/user-attachments/assets/f9e4d5cf-c03b-49f7-80fa-b0f3641ca31f)
 # ![image](https://github.com/user-attachments/assets/5a8eef66-3ec9-47fb-994c-790292300b1a)

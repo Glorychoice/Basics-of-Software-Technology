@@ -44,7 +44,7 @@ Parsing mixed-format BeiDou logs containing BDGGA, BDGSV, BDDHV, and RAWSTAT mes
  AI Model Used: ChatGPT (OpenAI GPT-4.5/o4
 
 #  5. Development Process
-** Step 1: Data Collection**
+**Step 1: Data Collection**
         - Real-world BeiDou data was collected using a receiver saved in .log format.
         - File path: **E:\with internet-middle - DATA.log** 
 
@@ -60,13 +60,13 @@ Parsing mixed-format BeiDou logs containing BDGGA, BDGSV, BDDHV, and RAWSTAT mes
         - HDOP estimate
         - Plots: SNR vs. Elevation, Skyplot
         
-# Step 4: GUI Development
+**Step 4: GUI Development**
        - Built **b3i_gui_evaluator.py** with tkinter:
        - Load CSV button
        - Plot display buttons
        - Console feedback
        
-# Step 5: AI Integration
+**Step 5: AI Integration**
       - ChatGPT assisted in all phases:
       - Python scripting
       - GUI debugging

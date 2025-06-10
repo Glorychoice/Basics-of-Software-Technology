@@ -44,34 +44,34 @@ Visualization of satellite SNR (Signal-to-Noise Ratio) - Calculation and plottin
 
 # 5. Development Process
 **Step 1: Data Collection**       
-        -Real-world BeiDou data was collected using a receiver saved in .log format.
-        -File path: **E:\with internet-middle - DATA.log** 
+        - Real-world BeiDou data was collected using a receiver saved in .log format.
+        - File path: **E:\with internet-middle - DATA.log** 
 
 **Step 2: Data Conversion**
-        -Developed convert_**log_to_csv.py** to extract BDGSV, BDGGA messages.
-        -Output: **b3i_sample_data.csv**
+        - Developed convert_**log_to_csv.py** to extract BDGSV, BDGGA messages.
+        - Output: **b3i_sample_data.csv**
         
 **Step 3: Analysis Module**
-        -Created **b3i_evaluator.py** to compute:
-        -Number of satellites
-        -Average SNR
-        -Min/Max elevation
-        -HDOP estimate
-        -Plots: SNR vs. Elevation, Skyplot
+        - Created **b3i_evaluator.py** to compute:
+        - Number of satellites
+        - Average SNR
+        - Min/Max elevation
+        - HDOP estimate
+        - Plots: SNR vs. Elevation, Skyplot
         
 **Step 4: GUI Development**
-       -Built **b3i_gui_evaluator.py** with tkinter:
-       -Load CSV button
-       -Plot display buttons
-       -Console feedback
+       - Built **b3i_gui_evaluator.py** with tkinter:
+       - Load CSV button
+       - Plot display buttons
+       - Console feedback
        
 **Step 5: AI Integration**
-      -ChatGPT assisted in all phases:
-      -Python scripting
-      -GUI debugging
-      -Data parsing
-      -Plotting logic
-      -File handling
+      - ChatGPT assisted in all phases:
+      - Python scripting
+      - GUI debugging
+      - Data parsing
+      - Plotting logic
+      - File handling
 
 # Results
       - CSV Summary: SNR values across PRNs, estimated DOP, satellite count

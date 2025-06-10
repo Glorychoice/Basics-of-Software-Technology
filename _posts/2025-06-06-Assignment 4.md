@@ -44,15 +44,15 @@ Parsing mixed-format BeiDou logs containing BDGGA, BDGSV, BDDHV, and RAWSTAT mes
  AI Model Used: ChatGPT (OpenAI GPT-4.5/o4
 
 #  5. Development Process
- # Step 1: Data Collection
+** Step 1: Data Collection**
         - Real-world BeiDou data was collected using a receiver saved in .log format.
         - File path: **E:\with internet-middle - DATA.log** 
 
-# Step 2: Data Conversion
+**Step 2: Data Conversion**
         - Developed convert_**log_to_csv.py** to extract BDGSV, BDGGA messages.
         - Output: **b3i_sample_data.csv**
         
-# Step 3: Analysis Module
+**Step 3: Analysis Module**
         - Created **b3i_evaluator.py** to compute:
         - Number of satellites
         - Average SNR

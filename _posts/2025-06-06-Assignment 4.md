@@ -1,15 +1,14 @@
 # Assignment 4 Report
 
- # Project Title: GNSS Satellite Geometry Evaluator for BeiDou B3I
- 
+** # Project Title: GNSS Satellite Geometry Evaluator for BeiDou B3I** 
  - Student: Ameh Glory Ene-dugbo-ojo
  - Student ID: LS2425231
  - University: Beihang University (Hangzhou Regional Center)
  - Program: M.Sc. Space Technology Applications
  - Date: June 10th 2025
  
-#  1. Introduction and Objective
- This software project aims to evaluate GNSS (Global Navigation Satellite System) signal performance using
+**#  1. Introduction and Objective** 
+This software project aims to evaluate GNSS (Global Navigation Satellite System) signal performance using
  real-world BeiDou B3I data collected from a mobile receiver. The system provides tools to analyze signal
  quality, satellite visibility, and positioning geometry, which are critical for understanding and improving
  GNSS-based applications in adverse environments.
@@ -18,8 +17,8 @@ Visualization of satellite SNR (Signal-to-Noise Ratio) - Calculation and plottin
  values - Skyplot and time-series analysis of satellite data - Interactive GUI for user control and result viewing
 
 
-#  2. Background and Relevance
- GNSS performance can be significantly impacted by satellite geometry, signal strength, and environmental
+**#  2. Background and Relevance** 
+GNSS performance can be significantly impacted by satellite geometry, signal strength, and environmental
  conditions. This is especially relevant for applications in agriculture, autonomous navigation, and urban
  environments where multipath and weak signals are common. BeiDou B3I signals offer strong performance
  in Asia-Pacific, making them ideal for testing. However, tools for visualizing and analyzing these logs are
@@ -27,14 +26,14 @@ Visualization of satellite SNR (Signal-to-Noise Ratio) - Calculation and plottin
  developed using AI assistance
 
 
-# 3. Technical Challenges
+**# 3. Technical Challenges**
 Parsing mixed-format BeiDou logs containing BDGGA, BDGSV, BDDHV, and RAWSTAT messages
  Extracting usable information such as PRN, SNR, elevation, azimuth
  Estimating DOP from satellite distribution without direct position fix data
  Creating accurate plots (skyplot, time-series, etc.) from limited fields
  Integrating all functionalities into a responsive and user-friendly GU
 
-# 4. Development Environment 
+**# 4. Development Environment**
  Operating System: Windows 11 Home 64-bit
  Processor: Intel(R) Core(TM) i7 CPU
  RAM: 16 GB
@@ -43,7 +42,7 @@ Parsing mixed-format BeiDou logs containing BDGGA, BDGSV, BDDHV, and RAWSTAT mes
  Libraries Used: pandas, matplotlib, numpy, tkinter
  AI Model Used: ChatGPT (OpenAI GPT-4.5/o4
 
-#  5. Development Process
+**# 5. Development Process**
 **Step 1: Data Collection**
          - Real-world BeiDou data was collected using a receiver saved in .log format.
         - File path: **E:\with internet-middle - DATA.log** 

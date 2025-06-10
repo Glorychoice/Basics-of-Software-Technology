@@ -45,7 +45,7 @@ Parsing mixed-format BeiDou logs containing BDGGA, BDGSV, BDDHV, and RAWSTAT mes
 
 #  5. Development Process
 **Step 1: Data Collection**
-        - Real-world BeiDou data was collected using a receiver saved in .log format.
+         - Real-world BeiDou data was collected using a receiver saved in .log format.
         - File path: **E:\with internet-middle - DATA.log** 
 
 **Step 2: Data Conversion**

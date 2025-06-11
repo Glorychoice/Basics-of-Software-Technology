@@ -6,8 +6,6 @@ date: 2025-06-10
 tags: [GNSS, BeiDou, Signal Analysis]
 ---
 
-# Assignment 4 Report
-
 # Project Title: GNSS Satellite Geometry Evaluator for BeiDou B3I
  - Student: Ameh Glory Ene-dugbo-ojo
  - Student ID: LS2425231

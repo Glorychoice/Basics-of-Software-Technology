@@ -1,8 +1,5 @@
 
 ---
-layout: post
-title: "Assignment 4 - GNSS Signal Analysis"
-date: 2025-06-10
 tags: [GNSS, BeiDou, Signal Analysis]
 ---
 

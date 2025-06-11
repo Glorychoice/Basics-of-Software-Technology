@@ -1,6 +1,5 @@
-
 ---
-tags: [GNSS, BeiDou, Signal Analysis]
+tags: GNSS, BeiDou, Signal Analysis
 ---
 
 # Project Title: GNSS Satellite Geometry Evaluator for BeiDou B3I

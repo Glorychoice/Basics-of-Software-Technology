@@ -3,7 +3,7 @@
 
 - GNSS Satellite Geometry Optimizer for Enhanced Position Accuracy
 
-- Ameh Glory Ene-dugbo-ojo | LS2425231 | June 10 2025
+- Ameh Glory Ene-dugbo-ojo | LS2425231 | June 12 2025
 
 # INRODUCTION
 - This project evaluates GNSS signal performance using real-world BeiDou B3I data from a mobile receiver. It analyzes signal quality, satellite visibility, and positioning geometry. Key features include log-to-CSV conversion, SNR and DOP visualization, and skyplot/time-series analysis. An interactive GUI enables user-friendly control and results viewing.
@@ -23,7 +23,7 @@ Sky Plot
 ![image](https://github.com/user-attachments/assets/c808908c-e40d-4907-83f3-be8d72d7e1fe)
 -  SNR VS Elevation
 
-![image](https://github.com/user-attachments/assets/7a99bedc-8dc4-4d55-8e51-a56e43865b2b)
+![image](https://github.com/user-attachments/assets/47f9ebc1-1ba1-4cf5-9bf4-76c3166d2adc)
 - Data coBeiDou Navigation Satellite System ICD
 
 # Result

@@ -1,4 +1,3 @@
 ---
-layout: default
-title: Home
+title: Welcome to my first blog experience
 ---

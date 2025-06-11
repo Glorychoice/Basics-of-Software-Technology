@@ -1,6 +1,5 @@
 ---
 title: Assignment 1
-date: 2025-06-10
 ---
  # Matrix Multiplication Project Report
 

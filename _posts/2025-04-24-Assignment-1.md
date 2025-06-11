@@ -1,4 +1,8 @@
-﻿# Matrix Multiplication Project Report
+---
+title: Assignment 1 - Matrix Multiplication Project Report
+date: 2025-06-10
+---
+ # Matrix Multiplication Project Report
 
 - **Student Name**: Ameh Glory Ene-dugbo-ojo
 - **Student ID**: LS2425231

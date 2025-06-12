@@ -1,5 +1,5 @@
 
-# TOPICC: GNSS Satellite Geometry Optimizer for Enhanced Position Accuracy
+# TOPIC: GNSS Satellite Geometry Optimizer for Enhanced Position Accuracy
 
 - GNSS Satellite Geometry Optimizer for Enhanced Position Accuracy
 

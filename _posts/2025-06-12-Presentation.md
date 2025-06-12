@@ -12,6 +12,7 @@
 - Operating System: Windows 11 Home 64-bit Processor: Intel(R) Core(TM) i7 CPU RAM: 16 GB Python Version: 3.10 (Anaconda) Environment: Glory (conda virtual environment) Libraries Used: pandas, matplotlib, numpy, tkinter AI Model Used: ChatGPT (OpenAI GPT-4.5/o4
 
 ![image](https://github.com/user-attachments/assets/1f942b59-7f66-41f2-8c70-9440ed123f53)
+GNSS Anti-Interference Receiver Interface
 
 # GNSS Positioning Challanges
 - GNSS accuracy is affected by satellite geometry, signal strength, and elevation. Obstructions and interference degrade performance significantly.
@@ -24,7 +25,7 @@ Sky Plot
 -  SNR VS Elevation
 
 ![image](https://github.com/user-attachments/assets/47f9ebc1-1ba1-4cf5-9bf4-76c3166d2adc)
-- Data coBeiDou Navigation Satellite System ICD
+- Data collection process
 
 # Result
 -The results of the project demonstrate that the GNSS tool effectively parsed and analyzed BeiDou B3I data, generating clear visualizations such as skyplots, SNR graphs, and DOP curves. The satellite geometry analysis revealed how the Dilution of Precision (DOP) values varied over time, highlighting the impact of satellite distribution on positional accuracy. Overall, the tool provided valuable insights, confirming that selecting satellites with higher SNR and optimal geometry leads to more accurate and reliable GNSS positioning results.
